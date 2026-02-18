@@ -40,6 +40,15 @@ Screenshots
 
 Command outputs and proof of work are available in the screenshots folder.
 
+Skills Demonstrated
+- Linux File System Navigation
+- User & Group Management
+- File Permissions & Ownership
+- Package Installation
+- Bash Scripting Basics
+- Log Monitoring & Troubleshooting
+
+
 Lessons Learned
 
 Linux user and permission management
@@ -51,3 +60,6 @@ Package and service management
 Log analysis and troubleshooting
 
 Basic automation with Bash scripting
+
+
+
