@@ -48,7 +48,6 @@ Skills Demonstrated
 - Bash Scripting Basics
 - Log Monitoring & Troubleshooting
 
-
 Lessons Learned
 
 Linux user and permission management
@@ -61,5 +60,9 @@ Log analysis and troubleshooting
 
 Basic automation with Bash scripting
 
+Future Improvements
+- Add cron job automation
+- Configure firewall (UFW)
+- Docker container setup
 
 
